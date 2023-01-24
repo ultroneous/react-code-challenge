@@ -7,9 +7,6 @@ Find the Postman collection for the API's list you need to implement
 - Implement a button which makes a get request to get a list of users and display them.
 - Add a button for each user to make a delete request to delete that user. (there should be confirmation pop up)
 - Make a filter box to filter the displayed users by name.
-
-Bonus If you have time
-
 - Implement Create Button to create a user
 - Add a button for each user to make a update request to update that user.
 
