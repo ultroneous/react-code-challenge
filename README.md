@@ -1,6 +1,6 @@
 This task should be complete in 3 Hour if you have a time then you can implement Bonus Part as well
 
-Create new branch from main branch and push you code over there
+Share ZIP File to HR Once Task Completed
 
 Find the Postman collection for the API's list you need to implement
 
